@@ -1,2 +1,0 @@
-# witties
-Witties Official Repository
